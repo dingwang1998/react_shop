@@ -32,4 +32,4 @@ import  qs from 'qs'
   });
 
 
-export default axios
+export default axios 
